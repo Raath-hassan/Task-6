@@ -1,9 +1,9 @@
 let  array = [10,13,17,6,8];
 let largestNumber = Math.max(...array);
 let secondLaregest = -Infinity;
-for(let modifiedArray of array){
-    if(modifiedArray !== largestNumber && modifiedArray > secondLaregest){
-        secondLaregest = modifiedArray;
+for(let arrayNumber of array){
+    if(arrayNumber !== largestNumber && arrayNumber > secondLaregest){
+        secondLaregest = arrayNumber;
     }
 }
 if(secondLaregest === -Infinity){
