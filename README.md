@@ -8,4 +8,4 @@ Method 3
 Is method me sirf ek loop use hota hai program har number ko check karta hai aur saath hi largest aur second largest values ko update karta rehta hai agar koi naya sab se bada number milta hai to pehla largest second largest ban jata hai aur naya number largest ban jata hai agar number largest se chhota lekin second largest se bada ho to woh second largest ban jata hai ye method sorting ke bina kam time me result deta hai.
 
 Challeng method 
-Challenge method second se hi ho jay ga bas inderx change kar do array ka or oper bhi condition me bhi index bhara do
+Challenge method one se hi ho jay ga bas inderx change kar do array ka or oper bhi condition me bhi index bhara do
